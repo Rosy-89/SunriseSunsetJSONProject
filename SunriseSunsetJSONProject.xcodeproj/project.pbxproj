@@ -14,6 +14,7 @@
 		E1972E8D25DD6449001745D8 /* SunriseSunsetJSONProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E1972E8B25DD6449001745D8 /* SunriseSunsetJSONProject.xcdatamodeld */; };
 		E1972E8F25DD644B001745D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1972E8E25DD644B001745D8 /* Assets.xcassets */; };
 		E1972E9225DD644B001745D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1972E9025DD644B001745D8 /* LaunchScreen.storyboard */; };
+		E1972E9B25DD6770001745D8 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1972E9A25DD6770001745D8 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E1972E8E25DD644B001745D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1972E9125DD644B001745D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E1972E9325DD644B001745D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1972E9A25DD6770001745D8 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				E1972E8225DD6449001745D8 /* AppDelegate.swift */,
 				E1972E8425DD6449001745D8 /* SceneDelegate.swift */,
 				E1972E8625DD6449001745D8 /* ViewController.swift */,
+				E1972E9A25DD6770001745D8 /* File.swift */,
 				E1972E8825DD6449001745D8 /* Main.storyboard */,
 				E1972E8E25DD644B001745D8 /* Assets.xcassets */,
 				E1972E9025DD644B001745D8 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1972E9B25DD6770001745D8 /* File.swift in Sources */,
 				E1972E8725DD6449001745D8 /* ViewController.swift in Sources */,
 				E1972E8D25DD6449001745D8 /* SunriseSunsetJSONProject.xcdatamodeld in Sources */,
 				E1972E8325DD6449001745D8 /* AppDelegate.swift in Sources */,
